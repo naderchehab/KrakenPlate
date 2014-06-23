@@ -1,0 +1,1 @@
+define(["jquery","./"],function(e,t){var n=t.Model.extend({initialize:function(){},defaults:{},validate:function(e){}});return n});
